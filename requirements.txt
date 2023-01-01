@@ -1,0 +1,9 @@
+numpy==1.21.0 or less version like 1.19.0
+mediapipe==0.8.3
+tensorflow==2.6.0
+opencv-python==4.5.3.56 or latest version like 4.6.0.66
+pyspellchecker==0.6.3
+scikit-learn==1.0 or less version like 0.19.0
+matplotlib==3.4.3 or less version like 3.3.4
+
+python=3.6.13
